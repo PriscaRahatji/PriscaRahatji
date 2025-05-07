@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @PriscaRahatji<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning JavaScript<br>💞️ I’m looking to collaborate on designs that would challenge me<br>📫 How to reach me priscarahatjj@gmail.com
+👋 Hi, I’m @PriscaRahatji<br>👀 I’m interested in Data Analysis<br>🌱 I’m currently learning Pythont<br>💞️ I’m looking to collaborate on datasets that would challenge me<br>📫 How to reach me priscarahatjj@gmail.com
 
 
 ## 🌐 Socials:
